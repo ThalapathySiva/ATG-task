@@ -13,9 +13,6 @@ import com.koushikdutta.ion.Ion;
 
 import java.util.ArrayList;
 
-/**
- * Created by riddhi on 7/6/16.
- */
 public class ImageAdapter extends BaseAdapter {
     private Context mContext;
     private ArrayList mArrayList;

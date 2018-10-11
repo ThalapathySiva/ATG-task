@@ -7,9 +7,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
-/**
- * Created by riddhi on 8/6/16.
- */
+
 public class FlipAnimation extends Animation {
     private Camera camera;
 

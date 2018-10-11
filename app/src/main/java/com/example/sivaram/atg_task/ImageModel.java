@@ -1,8 +1,6 @@
 package com.example.sivaram.atg_task;
 
-/**
- * Created by riddhi on 7/6/16.
- */
+
 public class ImageModel {
 
     private String id;
